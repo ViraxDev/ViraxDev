@@ -1,6 +1,24 @@
 # 💫 About Me:
-👋 Hi there! I'm Fartadji — Backend Developer, Freelancer & Tech Explorer<br><br>Welcome to my GitHub profile! I'm a passionate backend developer specialized in **Symfony**, **API design**, and **automation**. I love building scalable web applications, experimenting with **AI**, and optimizing workflows with **Docker** and **Makefiles**.<br><br>---<br><br>## 🔧 Tech Stack & Tools<br><br>- **Backend**: PHP, Symfony, API Platform, Doctrine<br>- **DevOps**: Docker, Docker Compose, Nginx, Make<br>- **Database**: MySQL, MongoDB, PostgreSQL, SQLite<br>- **Frontend** *(just when needed 😅)*: Twig, HTML/CSS, a bit of JavaScript / React<br>- **Others**: Git, GitHub Actions, REST APIs, JWT Auth, Composer<br>- **Experiments**: n8n, AI agents, affiliate automation<br><br>---<br><br>## 💼 Freelance Services<br><br>I help businesses build fast, secure, and maintainable web platforms.<br><br>- 🔧 Custom Web Applications  <br>- 🚀 API Development (REST & GraphQL)  <br>- 🛒 E-commerce Backends  <br>- 🧠 AI-Powered Automation  <br>- ⚙️ Dockerized Infrastructure  <br><br>📬 _Available for new projects — let's talk!_<br><br>---<br><br>## 📈 GitHub Stats<br><br>![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ViraxDev&show_icons=true&theme=tokyonight)<br><br>---<br><br>## 🤝 Let's Connect<br><br>- 🔗 [LinkedIn](www.linkedin.com/in/fartadji-ali-saïd-981b7933a)<br>- ✉️ Reach me at: fartadji@gmail.com<br><br>Thanks for stopping by! 🙌
+👋 Hi there! I'm Fartadji — Backend Developer, Freelancer & Tech Explorer<br><br>Welcome to my GitHub profile! I'm a passionate backend developer specialized in **Symfony**, **API design**, and **automation**. I love building scalable web applications, experimenting with **AI**, and optimizing workflows with **Docker** and **Makefiles**.
 
+## 🔧 Tech Stack & Tools
+
+- **Backend**: PHP, Symfony, API Platform, Doctrine
+- **DevOps**: Docker, AWS, Docker Compose, Nginx, Make
+- **Database**: MySQL, MongoDB, PostgreSQL, SQLite
+- **Frontend** *(just when needed 😅)*: Twig, HTML/CSS, a bit of JavaScript / React
+- **Others**: Git, GitHub Actions, REST APIs, JWT Auth, Composer
+- **Experiments**: n8n, AI agents, affiliate automation
+
+## 💼 Freelance Services
+
+I help businesses build fast, secure, and maintainable web platforms.
+- 🔧 Custom Web Applications
+- 🚀 API Development (REST & GraphQL)
+- 🛒 E-commerce Backends
+- 🧠 AI-Powered Automation
+- ⚙️ Dockerized Infrastructure
+- 📬 _Available for new projects — let's talk!_
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fartadji-ali-saïd-981b7933a) 
@@ -18,4 +36,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=ViraxDev&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🤝 Let's Connect
+- 🔗 [LinkedIn](www.linkedin.com/in/fartadji-ali-saïd-981b7933a)
+- ✉️ Reach me at: fartadji@gmail.com<br><br>Thanks for stopping by! 🙌
